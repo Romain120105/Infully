@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="infully_main" target="1.8" />
+      <module name="infully_test" target="1.8" />
+      <module name="infullyclient_main" target="1.8" />
+      <module name="infullyclient_test" target="1.8" />
+      <module name="infullyserver_main" target="1.8" />
+      <module name="infullyserver_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

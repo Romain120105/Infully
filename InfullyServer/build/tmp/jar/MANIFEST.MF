@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: infullyserver
+Implementation-Version: 1.0-SNAPSHOT
+Main-Class: fr.romain120105.infully.server.InfullyServer
+

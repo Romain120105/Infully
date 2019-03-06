@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":infullyclient:main" external.linked.project.path="$MODULE_DIR$/../../../InfullyClient" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="fr.romain120105" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../InfullyClient/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../InfullyClient/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../../InfullyClient/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../InfullyClient/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../InfullyClient/libs/SoftLog.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.7" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-all:4.0.4.Final" level="project" />
+  </component>
+</module>

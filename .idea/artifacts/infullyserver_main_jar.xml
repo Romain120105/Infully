@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="infullyserver_main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/infullyserver_main_jar</output-path>
+    <root id="archive" name="infullyserver_main.jar">
+      <element id="module-output" name="infullyserver_main" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/InfullyServer/libs/SoftLog.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.4.Final/925914146e37041255ea18ae2d5982f9589c784d/netty-all-4.0.4.Final.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infully.iml" filepath="$PROJECT_DIR$/.idea/modules/infully.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infully_main.iml" filepath="$PROJECT_DIR$/.idea/modules/infully_main.iml" group="infully" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infully_test.iml" filepath="$PROJECT_DIR$/.idea/modules/infully_test.iml" group="infully" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infullyclient.iml" filepath="$PROJECT_DIR$/.idea/modules/infullyclient.iml" group="infullyclient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InfullyClient/infullyclient_main.iml" filepath="$PROJECT_DIR$/.idea/modules/InfullyClient/infullyclient_main.iml" group="infullyclient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InfullyClient/infullyclient_test.iml" filepath="$PROJECT_DIR$/.idea/modules/InfullyClient/infullyclient_test.iml" group="infullyclient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infullyserver.iml" filepath="$PROJECT_DIR$/.idea/modules/infullyserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infullyserver_main.iml" filepath="$PROJECT_DIR$/.idea/modules/infullyserver_main.iml" group="infullyserver" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infullyserver_test.iml" filepath="$PROJECT_DIR$/.idea/modules/infullyserver_test.iml" group="infullyserver" />
+    </modules>
+  </component>
+</project>
