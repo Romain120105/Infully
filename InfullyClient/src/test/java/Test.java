@@ -21,17 +21,9 @@ public class Test {
 		wrapper.setClientType(EnumClientType.PHONE);
 		
 
-		/*
-		wrapper.register("Romain120105", "romain120105@outlook.fr", "leyton1973", new FutureCallback() {
-			
-			@Override
-			public void callback(boolean sucess, String message) {
-				System.out.println(sucess + " / " + message);
-			}
-		});
-		*/
+		
 
-		wrapper.login("romain120105@outlook.fr", "leyton1973", new FutureCallback() {
+		wrapper.login("email", "motdepasse", new FutureCallback() {
 			
 			@Override
 			public void callback(boolean sucess, String message) {
